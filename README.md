@@ -4,7 +4,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Marco Túlio
+* Marco Tulio Agapito de Souza
 * Ricardo Meireles Trindade Pereira
 
 ## Professores responsáveis
