@@ -1,6 +1,6 @@
-# Nome do projeto
+# Inadequação ao EAD
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo deste trabalho é a criação de um site que reúna ferramentas de ensino, agrupando-as baseado em suas características, possibilitando aos professores o conhecimento das mesmas, para que possam empregar nas aulas online.
 
 ## Alunos integrantes da equipe
 
